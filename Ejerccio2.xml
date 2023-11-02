@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+    <email>
+        <destinatario>
+            <nonbre></nombre>
+            <direcccionemail></direcccionemail>
+        </destinatario>
+        <remitente>
+            <nonbre></nombre>
+            <direcccionemail></direcccionemail>
+        </remitente>
+        <asunto></asunto>
+        <texto>
+            <parrafo></parrafo>
+        </texto>
+    </email>
+</emails>
+
