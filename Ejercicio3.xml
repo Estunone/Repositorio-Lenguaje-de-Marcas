@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<alimentos>
+    <alimento tipo="legumbre" cocinado="cocidos" calorias="1090">Ganbanzo</alimento>
+    <alimento tipo="legumbre" cocinado="estofadas" calorias="690">Lentejas</alimento>
+    <alimento tipo="legumbre" cocinado="pintas" calorias="285">Alubias</alimento>
+    <alimento tipo="legumbre" cocinado="secos" calorias="346">Guisantes</alimento>
+    <alimento tipo="legumbre" cocinado="rehogadas" calorias="100">Habas</alimento>
+    <alimento tipo="legumbre" cocinado="fabada" calorias="1300">Judias</alimento>
+    <alimento tipo="verdura" cocinado="blancos" calorias="15">esparragos</alimento>
+    <alimento tipo="verdura" cocinado="asados" calorias="55">Pimientos</alimento>
+    <alimento tipo="verdura" cocinado="parrilla" calorias="28">Berenjenas</alimento>
+    <alimento tipo="verdura" cocinado="fritos" calorias="71">Tomates</alimento> 
+    <alimento tipo="verdura" cocinado="fritas" calorias="234">Patatas</alimento>
+    <alimento tipo="verdura" cocinado="fresco" calorias="9">Apio</alimento>
+    <alimento tipo="pescados" cocinado="fritos" calorias="118">Calamares</alimento>
+    <alimento tipo="pescados" cocinado="en aceite" calorias="185">Anchoas</alimento>
+    <alimento tipo="pescados" cocinado="plancha" calorias="92">Merluza</alimento>
+    <alimento tipo="pescados" cocinado="fresca" calorias="145">Sardinas</alimento>
+    <alimento tipo="pescados" cocinado="en aceite" calorias="274">Atún</alimento>
+    <alimento tipo="frutas" cocinado="fresco" calorias="136">Aguacate</alimento>
+    <alimento tipo="frutas" cocinado="fresco" calorias="84">Plátano</alimento>
+    <alimento tipo="frutas" cocinado="fresco" calorias="58">Cerezas</alimento>
+
+
+    <aliemento tipo="Legumbre"></alimento>
+</alimentos>
