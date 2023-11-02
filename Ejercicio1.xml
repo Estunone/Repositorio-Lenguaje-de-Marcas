@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    <pedido>
+        <destinatario>Pedro Martin Martínez</destinatario>
+        <articulo>Samsung Galaxy Tab A8</articulo>
+        <direccentrega>Calle Virgen de la Cruz 2, septimo piso, letra A</direccentrega>
+        <localidad></localidad>
+        <fechaentrega>17/10/2022</fechaentrega>
+    </pedido>
+
+</pedidos>
