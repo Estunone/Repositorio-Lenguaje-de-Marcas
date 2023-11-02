@@ -14,14 +14,32 @@
     <alimento tipo="verdura" cocinado="fritas" calorias="234">Patatas</alimento>
     <alimento tipo="verdura" cocinado="fresco" calorias="9">Apio</alimento>
     <alimento tipo="pescados" cocinado="fritos" calorias="118">Calamares</alimento>
-    <alimento tipo="pescados" cocinado="en aceite" calorias="185">Anchoas</alimento>
+    <alimento tipo="pescados" cocinado="en_aceite" calorias="185">Anchoas</alimento>
     <alimento tipo="pescados" cocinado="plancha" calorias="92">Merluza</alimento>
     <alimento tipo="pescados" cocinado="fresca" calorias="145">Sardinas</alimento>
-    <alimento tipo="pescados" cocinado="en aceite" calorias="274">Atún</alimento>
+    <alimento tipo="pescados" cocinado="en_aceite" calorias="274">Atún</alimento>
     <alimento tipo="frutas" cocinado="fresco" calorias="136">Aguacate</alimento>
     <alimento tipo="frutas" cocinado="fresco" calorias="84">Plátano</alimento>
     <alimento tipo="frutas" cocinado="fresco" calorias="58">Cerezas</alimento>
-
-
-    <aliemento tipo="Legumbre"></alimento>
+    <alimento tipo="frutas" cocinado="fresco" calorias="50">Piña</alimento>
+    <alimento tipo="frutas" cocinado="fresco" calorias="70">Pera</alimento>
+    <alimento tipo="frutas" cocinado="fresco" calorias="73">Kiwi</alimento>
+    <alimento tipo="carnes" cocinado="escalope" calorias="326">Ternera</alimento>
+    <alimento tipo="carnes" cocinado="asado" calorias="575">Cordero</alimento>
+    <alimento tipo="carnes" cocinado="horno" calorias="825">Cochinillo</alimento>
+    <alimento tipo="carnes" cocinado="asado" calorias="844">Cerdo</alimento>
+    <alimento tipo="carnes" cocinado="parrilla" calorias="120">Pollo</alimento>
+    <alimento tipo="carnes" cocinado="asado" calorias="232">Pato</alimento>
+    <alimento tipo="bebidas" cocinado="ron" calorias="327">Cubalibre</alimento>
+    <alimento tipo="bebidas" cocinado="negra" calorias="110">Cerveza</alimento>
+    <alimento tipo="bebidas" cocinado="solo" calorias="499">whiski</alimento>
+    <alimento tipo="bebidas" cocinado="tinto" calorias="170">Vino</alimento>
+    <alimento tipo="bebidas" cocinado="brut" calorias="80">Cava</alimento>
+    <alimento tipo="bebidas" cocinado="con alcohol" calorias="421">Sangría</alimento>
+    <alimento tipo="varios" cocinado="carne" calorias="536">Ravioli</alimento>
+    <alimento tipo="varios" cocinado="pollo" calorias="780">Canelones</alimento>
+    <alimento tipo="varios" cocinado="con_leche" calorias="536">Chocolate</alimento>
+    <alimento tipo="varios" cocinado="vainilla" calorias="259">Helado</alimento>
+    <alimento tipo="varios" cocinado="basica" calorias="300">Pizza</alimento>
+    <alimento tipo="varios" cocinado="carneblanco" calorias="130">Pan</alimento>
 </alimentos>
