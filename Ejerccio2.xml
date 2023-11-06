@@ -2,11 +2,11 @@
 <emails>
     <email>
         <destinatario>
-            <nonbre></nombre>
+            <nombre></nombre>
             <direcccionemail></direcccionemail>
         </destinatario>
         <remitente>
-            <nonbre></nombre>
+            <nombre></nombre>
             <direcccionemail></direcccionemail>
         </remitente>
         <asunto></asunto>
@@ -15,4 +15,3 @@
         </texto>
     </email>
 </emails>
-
