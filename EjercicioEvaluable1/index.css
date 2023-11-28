@@ -1,0 +1,47 @@
+.nav-enlace{
+    display:inline-block;
+    background: salmon;
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+
+}
+.nav-enlace:hover{
+    background: rosybrown;
+}
+nav{
+    background: rgb(141, 51, 153);
+    padding: 10px;
+    display:flex;
+    justify-content: space-around;
+}
+h1{
+    background: rgb(51, 99, 153);
+    font-size: 50px;
+
+    padding: 50px;
+    margin: 25px;
+    display:flex;
+    justify-content: space-around;
+
+}
+h2{
+    background: rgb(51, 129, 153);
+    font-size: 20px;
+
+    padding: 20px;
+    margin: 25px;
+    display:flex;
+    justify-content: space-around;  
+}
+.imagen{
+    display:flex;
+    justify-content: space-around;
+    
+}
+.text-center{
+    text-align: center;
+    font-size: 20px;
+
+    padding: 50px;
+}
